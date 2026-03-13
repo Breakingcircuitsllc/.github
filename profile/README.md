@@ -191,6 +191,10 @@ SMALL GOVT AGENCIES     — Under-resourced teams that need enterprise-grade def
 
 ![](https://komarev.com/ghpvc/?username=breakingcircuitsllc&color=00FF00&style=for-the-badge&label=ORG+RECON+COUNT)
 
-*Breaking Circuits LLC — Blacksburg, VA — Est. 2024*
+<br>
+
+[![Flag Counter](https://s01.flagcounter.com/count/4c9M/bg_01000A/txt_4BFF0A/border_2119FF/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/4c9M)
+
+*Breaking Circuits LLC —  VA — Est. 2024*
 
 </div>
