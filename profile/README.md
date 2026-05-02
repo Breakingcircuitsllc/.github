@@ -107,5 +107,6 @@ No VC. No degrees. No permission. Just the work — and the receipts to prove it
 ```
 
 **`© 2026 BREAKING CIRCUITS LLC // ALL OPERATIONS LOGGED`**
+<a href="https://www.flagcounter.me/details/hqJ"><img src="https://www.flagcounter.me/hqJ/" alt="Flag Counter"></a>
 
 </div>
