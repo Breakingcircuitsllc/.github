@@ -46,7 +46,7 @@
 ```
 $ threat-model --show-all
 
-  operator         BC // SOLO
+  operator         BC // 5*5
   affiliation      Breaking Circuits LLC
   threat_model     ASSUME_BREACH
   crypto_layer     POST-QUANTUM
